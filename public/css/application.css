@@ -1,0 +1,23 @@
+.green{
+  background: #66CC00;
+}
+
+.center {
+  text-align: center;
+}
+
+table, td, th{
+  border: 1px solid #66CC00;
+  text-align: center;
+}
+
+.left_33{
+  margin-left: 33%;
+}
+
+.box{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 2%;
+  border-top: 1px solid #66CC00;
+}
