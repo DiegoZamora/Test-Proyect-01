@@ -1,2 +1,12 @@
-
-your ip address is #{request.ip}
+h2 class="center" Request data
+div class="box"
+  br
+  table class="left_33" id="request_table"
+    tr
+      th Ip address
+      th Host
+      th Port
+    tr
+      td #{request.ip}
+      td #{request.host}
+      td #{request.port}
