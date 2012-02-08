@@ -1,4 +1,0 @@
-source :rubygems
-gem "ruby"
-gem "sinatra"
-gem "slim"
